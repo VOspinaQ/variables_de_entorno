@@ -1,0 +1,10 @@
+CONCLUSIONES VARIABLES DE ENTORNO 
+
+1. Variables de Entorno
+Qué son: Las variables de entorno son valores que puedes utilizar para configurar tu aplicación sin tener que modificar el código directamente. Son útiles para almacenar información sensible o específica del entorno, como claves API, usuarios de bases de datos, y URLs.
+Cómo cargarlas: Utilizaste la librería python-dotenv para cargar estas variables desde archivos .env, como .env.dev (desarrollo) y .env.pro (producción), en tu aplicación de Python.
+Acceso en Python: Aprendiste a acceder a las variables de entorno usando la función os.getenv() de la librería os de Python.
+
+2. Uso de Archivos .env
+Creaste y gestionaste archivos .env para diferentes entornos (desarrollo y producción), aprendiendo a estructurarlos correctamente y cómo configurarlos para cada entorno sin que haya conflictos.
+
