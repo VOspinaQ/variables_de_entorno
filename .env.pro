@@ -1,0 +1,4 @@
+USER_NAME=veronica_ospina_pro
+API_KEY=asdfk_pro
+EMAIL=baxicoster@gmail.com_pro
+DATABASE_URL=mi_dataset_pro
